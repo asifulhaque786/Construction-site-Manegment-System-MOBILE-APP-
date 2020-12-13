@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905936030796",
+    "firebase_url": "https://civil-project-a2241.firebaseio.com",
+    "project_id": "civil-project-a2241",
+    "storage_bucket": "civil-project-a2241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905936030796:android:107495955d1b2e179878e9",
+        "android_client_info": {
+          "package_name": "com.example.civil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905936030796-sn8g7h95bcfsb4egjnee6222uioka09c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLmf35cbogSyU4H5TFQ2oXRClZ-uZYHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905936030796-sn8g7h95bcfsb4egjnee6222uioka09c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
